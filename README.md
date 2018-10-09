@@ -6,11 +6,11 @@ Worked as a freelancer on many online platform where I designed,developed,and de
 
 SUMMARY OF QUALIFICATIONS
 -------------------------
-Diverse experience utilizing Java tools in business, Web, and client-server environments including Java Platform, Enterprise Edition (Java EE), JavaServer Pages (JSP), Java Servlets, and Java database Connectivity (JDBC) technologies.
-Fluid understanding of multiple programming languages, JavaScript, HTML.
-Excellent communications skills. Adept at building strong working relationships with coworkers and management.
-Talented problem solver able to think “outside the box.”
-Proven background leading teams in stressful, deadline-oriented environments.
+* Diverse experience utilizing Java tools in business, Web, and client-server environments including Java Platform, Enterprise Edition (Java EE), JavaServer Pages (JSP), Java Servlets, and Java database Connectivity (JDBC) technologies.
+* Fluid understanding of multiple programming languages, JavaScript, HTML.
+* Excellent communications skills. Adept at building strong working relationships with coworkers and management.
+* Talented problem solver able to think “outside the box.”
+* Proven background leading teams in stressful, deadline-oriented environments.
 
 
 TECHNICAL EXPERTISE
