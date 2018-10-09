@@ -15,11 +15,12 @@ Proven background leading teams in stressful, deadline-oriented environments.
 
 TECHNICAL EXPERTISE
 --------------------
-Languages:	Java, JSP,Spring ,Spring Boot, HTML, JavaScript
-Frameworks:	JSF, J2EE,Hibernate,Jax-rs
-API’s:	Servlets, JSP
-Software:	Eclipse, 
-Databases: Oracle, MySQL, Database SQL command
-OS:	Windows, UNIX
-Servers:WebSphere (WAS),Apache Tomcat v 7.0
+* **Servers:**
+* **Languages:**	Java, JSP,Spring ,Spring Boot, HTML, JavaScript
+* **Frameworks:**	Hibernate,Jax-rs (Restfull Webservices)
+* **API’s:**	Servlets, JSP
+* **Software:**	Eclipse,Net Beans, Maven,
+* **Databases:** Oracle, MySQL, Database SQL command
+* **OS:**	Windows, UNIX
+* **Servers:**:WebSphere (WAS),Apache Tomcat v 7.0
 
