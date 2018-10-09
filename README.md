@@ -15,7 +15,7 @@ Proven background leading teams in stressful, deadline-oriented environments.
 
 TECHNICAL EXPERTISE
 --------------------
-* **Servers:**
+
 * **Languages:**	Java, JSP,Spring ,Spring Boot, HTML, JavaScript
 * **Frameworks:**	Hibernate,Jax-rs (Restfull Webservices)
 * **API’s:**	Servlets, JSP
