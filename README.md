@@ -16,8 +16,8 @@ SUMMARY OF QUALIFICATIONS
 TECHNICAL EXPERTISE
 --------------------
 
-* **Languages:**	Java, JSP,Spring ,Spring Boot, HTML, JavaScript
-* **Frameworks:**	Hibernate,Jax-rs (Restfull Webservices)
+* **Languages:**	Java, Java EE, HTML, JavaScript
+* **Frameworks:** Spring ,Spring Boot,Hibernate,Jax-rs (Restfull Webservices)
 * **API’s:**	Servlets, JSP
 * **Software:**	Eclipse,Net Beans, Maven,
 * **Databases:** Oracle, MySQL, Database SQL command
